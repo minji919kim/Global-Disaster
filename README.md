@@ -2,7 +2,7 @@
 The project objective is to visualize natural and human-caused disasters around the world. By building the visual report in the last four years, the users can see the general pattern of global disasters, including monetary loss, the number of casualties, and frequencies of different types of disasters. 
 
 # Dataset
-The dataset comes from Public [EM-Dat](https://public.emdat.be/data) in the Access Data tab. The dataset has 26,103 records with 50 columns, some of which are deleted to reduce the size of the dataset. Two columns are added after selecting essential columns: Duration and Total Damages, Adjusted. There are six columns related to disaster dates: Start Year, Start Month, Start Day, End Year, End Month, and End Day. The numeric values in columns are calculated to find the duration of each disaster. Instead of Total Damages, Adjusted ('000 US$), Total Damages, Adjusted is included to emphasize the severity of disasters. 
+The dataset comes from [Public EM-Dat](https://public.emdat.be/data) in the Access Data tab. The dataset has 26,103 records with 50 columns, some of which are deleted to reduce the size of the dataset. Two columns are added after selecting essential columns: Duration and Total Damages, Adjusted. There are six columns related to disaster dates: Start Year, Start Month, Start Day, End Year, End Month, and End Day. The numeric values in columns are calculated to find the duration of each disaster. Instead of Total Damages, Adjusted ('000 US$), Total Damages, Adjusted is included to emphasize the severity of disasters. 
 
 # Visualization
 Only Microsoft Excel is used. Based on the year button, the graphs and values are changed accordingly. 
