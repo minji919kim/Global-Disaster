@@ -7,7 +7,6 @@ The dataset comes from Public EM-Dat https://public.emdat.be/data in the Access 
 # Visualization
 Only Microsoft Excel is used. Based on the year button, the graphs and values are changed accordingly. 
 
-<img width="1435" alt="Screenshot 2023-08-08 at 8 08 16 AM" src="https://github.com/minji919kim/Global-Disaster/assets/65697240/297ac228-7ca4-4e6f-8f3b-9a73086d5413">
-<img width="1440" alt="Screenshot 2023-08-08 at 8 08 10 AM" src="https://github.com/minji919kim/Global-Disaster/assets/65697240/8d63d3ff-9595-4717-ae4f-9616b68e3f61">
-
-<img width="1440" alt="Screenshot 2023-08-08 at 5 21 10 AM" src="https://github.com/minji919kim/Global-Disaster/assets/65697240/ff2ed254-a179-4c94-99d0-f73c591e261e">
+<img width="1440" alt="Screenshot 2023-08-08 at 5 21 10 AM" src="https://github.com/minji919kim/Global-Disaster/assets/65697240/67f537c5-bfdb-4d42-b54f-714964456f63">
+<img width="1435" alt="Screenshot 2023-08-08 at 8 08 16 AM" src="https://github.com/minji919kim/Global-Disaster/assets/65697240/f6d83488-74ea-425e-bf7e-e509538a295e">
+<img width="1440" alt="Screenshot 2023-08-08 at 8 08 10 AM" src="https://github.com/minji919kim/Global-Disaster/assets/65697240/ae385853-818d-4cf9-a7f4-430cc056c832">
